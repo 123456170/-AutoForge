@@ -1,0 +1,28 @@
+# AutoForge — All-in-One AutoML Training Foundry
+# CPU-first · Windows 10/11 ready · GPU optional · No API keys
+# All dependencies are permissive open-source (MIT / BSD / Apache-2.0 / PSF)
+
+streamlit
+numpy
+pandas
+scipy
+scikit-learn
+plotly
+matplotlib
+joblib
+openpyxl
+statsmodels
+xgboost
+lightgbm
+catboost
+optuna
+shap
+mlflow
+fastapi
+uvicorn
+torch
+umap-learn
+
+# Optional extras (uncomment only if you want them):
+# prophet
+# tensorflow
